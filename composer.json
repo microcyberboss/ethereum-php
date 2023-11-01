@@ -4,7 +4,7 @@
     "require": {
         "php": ">=7.1",
         "ext-bcmath": "*",
-        "graze/guzzle-jsonrpc": "^3.2",
+        "graze/guzzle-jsonrpc": "^6.0",
         "phlib/base_convert": "^1.0"
     },
     "autoload": {
